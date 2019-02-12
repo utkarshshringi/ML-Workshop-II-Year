@@ -24,6 +24,8 @@ PCE17CS030    Arya Sinha       https://github.com/arya-07/My-ML-Workshop
 
 PCE17CS001     Aakansha kowerjani  https://github.com/Aakanshakowerjani/mlaiworkshop
 
+PCE17CS180     Yogesh Singh        https://github.com/yoboy96/Ml-workshop
+
 PCE17CS061    Harsh Sharma        https://github.com/OGUN01/ML-WORKSHOP
 
 PCE17CS002     Aashish Mridul     https://github.com/amridul2317/MLAI-Workshop
